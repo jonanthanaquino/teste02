@@ -22,7 +22,7 @@ export default function Home({list}) {
 
         <img src={'https://w7.pngwing.com/pngs/733/994/png-transparent-shiba-inu-doge-puppy-siberian-husky-meme-puppy-animals-carnivoran-dog-like-mammal-thumbnail.png'} width="480" /><br/>
 
-        Este é um sistema desenvolvido/copiado em uma noite. Com mais tempo e dedicação pode ser aprimorado
+        Este é um sistema desenvolvido para teste
 
        
 
