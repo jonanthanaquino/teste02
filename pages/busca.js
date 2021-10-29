@@ -11,7 +11,7 @@ export default function Home({list}) {
 
     const handleSearch= async() =>{
         if(searchText !== '') {
-            const result = await fetch (`http://localhost:3000/api/search?q=${searchText}`);
+            const result = await fetch (`http://https://teste02.vercel.app/api/search?q=${searchText}`);
             const json= await result.json();
             console.log(json);
           
