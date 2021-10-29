@@ -20,7 +20,7 @@ export default function Home({list}) {
           Sobre o sistema
         </h1>
 
-        <img src={'https://w7.pngwing.com/pngs/733/994/png-transparent-shiba-inu-doge-puppy-siberian-husky-meme-puppy-animals-carnivoran-dog-like-mammal-thumbnail.png'} width="480" /><br/>
+        <img src={'https://w7.pngwing.com/pngs/733/994/png-transparent-shiba-inu-doge-puppy-siberian-husky-meme-puppy-animals-carnivoran-dog-like-mammal-thumbnail.png'} width="380" /><br/>
 
         Este é um sistema desenvolvido para teste
 
