@@ -17,7 +17,7 @@ export default function Home({list}) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Filmes em Destaque 
+          Filmes em Destaque mmmm 
         </h1>
 
         
